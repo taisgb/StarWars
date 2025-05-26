@@ -34,3 +34,9 @@ Aplicativo desenvolvido com **React Native + Expo**, com foco em navegação ent
 - **Trilogia 1** → Episódios I, II, III
 - **Trilogia 2** → Episódios IV, V, VI
 - **Trilogia 3** → Episódios VII, VIII, IX
+
+## Tecnologias utilizadas:
+  - React Native
+  - Expo
+  - React Navigation (Stack)
+  - JavaScript
